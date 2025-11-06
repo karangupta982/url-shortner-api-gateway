@@ -1,0 +1,16 @@
+node_modules
+dist
+.env
+.env.*
+.DS_Store
+.git
+.gitignore
+.idea
+.vscode
+npm-debug.log
+yarn-error.log
+coverage
+tmp
+log
+logs
+public/static
